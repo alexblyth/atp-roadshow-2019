@@ -127,7 +127,7 @@ Using the IP Address, username and password, logon to your "Virtual Desktop".
 
 - Learn how to build a linux Java application server and connect it to an Oracle ATP database service
 
-**[Click here to run Lab 6](LabGuide600ConfigureJavaAppWithATP.md)**
+**[Click here to run Appendix 1](LabGuide600ConfigureJavaAppWithATP.md)**
 
 ## Appendix 2: Working with REST APIs
 
@@ -135,7 +135,7 @@ Using the IP Address, username and password, logon to your "Virtual Desktop".
 
 - Learn how to generate REST calls to the Oracle Cloud Infrastructure using node.js
 
-**[Click here to run Lab 7](LabGuide700WorkingWithRESTAPIs.md)**
+**[Click here to run Appendix 2](LabGuide700WorkingWithRESTAPIs.md)**
 
 ## Appendix 3: Docker
 
@@ -143,7 +143,7 @@ Using the IP Address, username and password, logon to your "Virtual Desktop".
 
 - Handy docker commands you may need
 
-**[Click here to go through Appendix](Appendix.md)**
+**[Click here to go through Appendix 3](Appendix.md)**
 
 ## Learn More About Autonomous Transaction Processing...
 
