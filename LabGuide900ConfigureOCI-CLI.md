@@ -25,17 +25,6 @@ To **log issues**, click [here](https://github.com/oracle/learning-library/issue
 - Configure Oracle Cloud Infrastructure Command Line Interface
 - Run examples using OCI-CLI for Autonomous Transaction Processing database
 
-## Required Artifacts
-
-- The following lab requires an Oracle Public Cloud account. You may use your own cloud account, a cloud account that you obtained through a trial, or a training account whose details were given to you by an Oracle instructor.
-
-- A user created in that account, in a group with a policy that grants the desired permissions. This account user can be you, another person, or a system that calls the API. For an example of how to set up a new user, group, compartment, and policy, see [Adding Users](https://docs.cloud.oracle.com/iaas/Content/GSG/Tasks/addingusers.htm)
-
-- Python version 2.7.5 or later, running on Mac, Windows, or Linux.
-
-#### Note: If you use the CLI Installer and do not have Python on your machine, the Installer offers to automatically install Python for you.
-
-
 ## Steps
 
 ### **STEP 1: Install Oracle Cloud Infrastructure Command Line Interface (OCI-CLI)**
