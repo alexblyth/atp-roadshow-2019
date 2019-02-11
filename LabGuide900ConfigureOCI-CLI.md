@@ -129,7 +129,7 @@ You are expected to see the following output in the command line interface
 
 ![](./images/900/CreateDBOutput.png)
 
-#### Get Databse
+#### Get Database
 
 Open your command line interface and run the following command to get details of an Autonomous Transaction Processing Database
 
