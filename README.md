@@ -39,7 +39,7 @@ Oracle Autonomous Transaction Processing delivers a self-driving, self-securing,
 
 Read on to begin your Getting Started journey with Oracle Autonomous Transaction Processing.
 
-**You are all set, let's begin!**
+**You're are all set, let's begin!**
 
 ## Lab 0: Logon to your Windows Terminal Server environment
 
