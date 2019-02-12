@@ -3,7 +3,7 @@
 Feb 10 2019
 </td>
 <td class="td-banner">
-# Lab 7: Configure Oracle Cloud Infrastructure Command Line Interface
+# Lab 5: Configure Oracle Cloud Infrastructure Command Line Interface
 </td></tr><table>
  
 

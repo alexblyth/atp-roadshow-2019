@@ -69,17 +69,44 @@ Using the IP Address, username and password, logon to your "Virtual Desktop".
 
 **[Click here to run Lab 2](LabGuide200SecureConnectivityAndDataAccess.md)**
 
+## Lab 3: Configure node.js app with ATP
 
-## Lab 3: Scaling an ATP instance
+**Key Objectives**:
+
+- Learn how to build a linux node.js application server and connect it to an Oracle ATP database service
+
+**[Click here to run Lab 2](LabGuide500Configurenode.jsAppWithATP.md)**
+
+## Lab 4: Node.js - microservices or rest services lab
+
+**Key Objectives**:
+
+- To build a docker container running node.js microservice
+- Deploy it on an ATP service
+
+**[Click here to run Lab 4](LabGuide800BuildingMicroservicesOnATP.md)**
+
+# Optional Labs
+
+## Lab 5: Configure OCI-CLI
+
+**Key Objectives**:
+
+- Configure Oracle Cloud Infrastructure Command Line Interface
+- Run examples using OCI-CLI for Autonomous Transaction Processing database
+
+**[Click here to run Lab 5](LabGuide900ConfigureOCI-CLI.md)**
+
+## Lab 6: Scaling an ATP instance
 
 **Key Objectives**:
 
 - Learn how to scale an ATP instance
 
-**[Click here to run Lab 3](LabGuide300ScaleAnATP.md)**
+**[Click here to run Lab 6](LabGuide300ScaleAnATP.md)**
 
 
-## Lab 4: Data Loading into ATP
+## Lab 7: Data Loading into ATP
 
 **Key Objectives**:
 
@@ -89,34 +116,7 @@ Using the IP Address, username and password, logon to your "Virtual Desktop".
 - Learn how to create tables in your database
 - Learn how to load data from the Object Store
 
-**[Click here to run Lab 4](LabGuide400DataLoadingIntoATP.md)**
-
-## Lab 5: Configure node.js app with ATP
-
-**Key Objectives**:
-
-- Learn how to build a linux node.js application server and connect it to an Oracle ATP database service
-
-**[Click here to run Lab 5](LabGuide500Configurenode.jsAppWithATP.md)**
-
-## Lab 6: Node.js - microservices or rest services lab
-
-**Key Objectives**:
-
-- To build a docker container running node.js microservice
-- Deploy it on an ATP service
-
-**[Click here to run Lab 6](LabGuide800BuildingMicroservicesOnATP.md)**
-
-
-## Lab 7: Configure OCI-CLI
-
-**Key Objectives**:
-
-- Configure Oracle Cloud Infrastructure Command Line Interface
-- Run examples using OCI-CLI for Autonomous Transaction Processing database
-
-**[Click here to run Lab 7](LabGuide900ConfigureOCI-CLI.md)**
+**[Click here to run Lab 7](LabGuide400DataLoadingIntoATP.md)**
 
 
 ## Appendix

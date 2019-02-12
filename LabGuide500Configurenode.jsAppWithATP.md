@@ -3,7 +3,7 @@
 October 18, 2018
 </td>
 <td class="td-banner">
-# Lab 5: Configure node.js app with ATP
+# Lab 3: Configure node.js app with ATP
 </td></tr><table>
 
 ## Introduction

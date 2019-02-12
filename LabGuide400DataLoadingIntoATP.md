@@ -3,7 +3,7 @@
 October 18, 2018
 </td>
 <td class="td-banner">
-# Lab 4: Data Loading into ATP
+# Lab 7: Data Loading into ATP
 </td></tr><table>
 
 ## Introduction

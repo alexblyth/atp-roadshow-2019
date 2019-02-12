@@ -3,7 +3,7 @@
 October 18, 2018
 </td>
 <td class="td-banner">
-# Lab 3: Scaling an ATP instance
+# Lab 6: Scaling an ATP instance
 </td></tr><table>
 
 ## Introduction
