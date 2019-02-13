@@ -44,7 +44,7 @@ ATPnodeapp simply makes a connection to the ATP database and does not require an
 
 # Steps
 
-## Step -1: Set up schema in ATP for the aOne applicaiton
+## Step 1: Set up schema in ATP for the aOne applicaiton
 
 In SQL Developer, connect to your ATP (assuming you haven't already).
 
@@ -56,7 +56,7 @@ followed by a good 'ole commit for good measure
 commit;
 ```
 
-## Step 0: Install Docker on your Linux Server
+## Step 2: Install Docker on your Linux Server
 
 We will do the remainder of this Lab running as root on the linux server. No, this is not best practice, but for the sake of simplicity we'll do it any way... So, lets switch into the root account.
 
@@ -100,7 +100,7 @@ Finally (really this time),
 
 And, off with the rest of the lab!
 
-### **STEP 1: Provision an ATP instance and copy secure credential file to application folder**
+### **STEP 3: Provision an ATP instance and copy secure credential file to application folder**
 
 Provision ATP instance and download secure connectivity credentials file.
 
@@ -127,7 +127,7 @@ WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA =
 
 This tells the driver to look for the wallet in the path setup in variable TNS_ADMIN.
 
-### **STEP 2: Build your docker image**
+### **STEP 4: Build your docker image**
 
 Assuming you have downloaded the Dockerfile, database wallet and created the backend schema, you can now build your docker image.
 
@@ -164,7 +164,7 @@ $ docker images -a
 
 ![](./images/800/Picture400.png)
 
-### **STEP 3: Change Database configuration**
+### **STEP 5: Change Database configuration**
 
 You need to launch your docker image and change the following
 - dbuser: admin
@@ -184,7 +184,7 @@ vi dbconfig.js
 
 This is the default username, password and connectString wirtten in the app and it will attempt to connect to the database with these credentials along with the secure keystore file. Either create a user with these credentials in your database or change this file to match what you create and save the file.
 
-### **STEP 4: Run server.js app**
+### **STEP 6: Run server.js app**
 
 Within the docker container navigate to aone folder and run server.js script
 
