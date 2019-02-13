@@ -200,7 +200,7 @@ Your should get a response similar to this
 
 To check the app on the browser, you have bridged port 3050 on the container to your localhost.
 
-Open browser on your localhost and go to http://<ip address of you linux server>:3050
+Open browser on your localhost and go to **http://{ip address of you linux server}:3050**
 
 This is what you see if your app ran successfully.
 
