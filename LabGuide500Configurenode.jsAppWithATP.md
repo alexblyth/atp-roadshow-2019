@@ -10,6 +10,8 @@ Nov 14, 2019
 
 Autonomous Transaction Processing provides all of the performance of the market-leading Oracle Database in an environment that is tuned and optimized for transaction processing workloads. Oracle Autonomous Transaction Processing (or ATP) service provisions in a few minutes and requires very little manual ongoing administration.
 
+To **log issues**, click [here](https://github.com/alexblyth/atp-roadshow-2019/issues) to go to the github oracle repository issue submission form.
+
 
 ## Objectives
 

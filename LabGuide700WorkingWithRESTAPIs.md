@@ -24,7 +24,7 @@ While these seem like a lot of steps and can make your curl statements look sick
 
 Let's take a look at how to generate REST calls to the Oracle Cloud Infrastructure using a popular scripting language, node.js. While we are using node.js to build some sample calls to create and list Autonomous Database services, you may use similar concepts to build scripts in Python, Golang, Ruby, Perl, Java, C#, bash or even curl!
 
-To **log issues**, click [here](https://github.com/cloudsolutionhubs/autonomous-transaction-processing/issues/new) to go to the github oracle repository issue submission form.
+To **log issues**, click [here](https://github.com/alexblyth/atp-roadshow-2019/issues) to go to the github oracle repository issue submission form.
 
 ## Objectives
 

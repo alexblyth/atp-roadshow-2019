@@ -26,7 +26,7 @@ This lab shows how to load data from Oracle Cloud Infrastructure Object Storage 
 - You will use this procedure to create object store credentials in your ATP admin schema.
 - You will use this procedure to load tables in your admin schema with data from data files staged in the Oracle Cloud Infrastructure Object Storage cloud service.
 
-To **log issues**, click [here](https://github.com/oracle/learning-library/issues/new) to go to the github oracle repository issue submission form.
+To **log issues**, click [here](https://github.com/alexblyth/atp-roadshow-2019/issues) to go to the github oracle repository issue submission form.
 
 ## Objectives
 

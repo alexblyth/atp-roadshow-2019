@@ -12,7 +12,7 @@ Autonomous Transaction Processing provides all of the performance of the market-
 
 In this lab we will configure a secure connection using Oracle SQL Developer.
 
-To **log issues**, click [here](https://github.com/oracle/learning-library/issues/new) to go to the github oracle repository issue submission form.
+To **log issues**, click [here](https://github.com/alexblyth/atp-roadshow-2019/issues) to go to the github oracle repository issue submission form.
 
 ## Objectives
 

@@ -23,7 +23,7 @@ The Autonomous cloud service takes it a step further. It is self managing, self 
 ![](./images/800/Picture300.png)
 
 
-To **log issues**, click [here](https://github.com/cloudsolutionhubs/autonomous-transaction-processing/issues/new) to go to the github oracle repository issue submission form.
+To **log issues**, click [here](https://github.com/alexblyth/atp-roadshow-2019/issues) to go to the github oracle repository issue submission form.
 
 ## Objectives
 
