@@ -69,13 +69,13 @@ Using the IP Address, username and password, logon to your "Virtual Desktop".
 
 **[Click here to run Lab 2](LabGuide200SecureConnectivityAndDataAccess.md)**
 
-## Lab 3: Configure node.js app with ATP
+## Lab 3: Prepare Linux "Server" for application deployment
 
 **Key Objectives**:
 
-- Learn how to build a linux node.js application server and connect it to an Oracle ATP database service
+- Deploy a Linux server into Oracle Cloud Infrastructure as a preperation step for deploying an application that connects to your Autonomous Transaction Processing Database
 
-**[Click here to run Lab 2](LabGuide500Configurenode.jsAppWithATP.md)**
+**[Click here to run Lab 3](LabGuide500Configurenode.jsAppWithATP.md)**
 
 ## Lab 4: Node.js - microservices or rest services lab
 
