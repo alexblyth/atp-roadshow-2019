@@ -115,7 +115,7 @@ Enter the following to Create Linux Instance
 
 - Choose the public key to upload (for example, id_rsa.pub), then click Open.
 
-### To create a SSH Key pair (public/private pair) on windows:
+#### To create a SSH Key pair (public/private pair) on windows:
 
 - Generate a private and public key pair:
     - Go to the Windows Start menu -> All Programs -> PuTTY and open PuTTYgen
